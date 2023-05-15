@@ -47,5 +47,5 @@ These are some publicly available repositories that I worked on
 ## Python related
 | Repo | Last commit |
 |:---|:---:|
-- https://github.com/junekimdev/pycheatsheet | ![last-commit-pycheatsheet](https://img.shields.io/github/last-commit/junekimdev/pycheatsheet) |
-- https://github.com/junekimdev/pygame-tutorial | ![last-commit-pygame](https://img.shields.io/github/last-commit/junekimdev/pygame-tutorial) |
+| https://github.com/junekimdev/pycheatsheet | ![last-commit-pycheatsheet](https://img.shields.io/github/last-commit/junekimdev/pycheatsheet) |
+| https://github.com/junekimdev/pygame-tutorial | ![last-commit-pygame](https://img.shields.io/github/last-commit/junekimdev/pygame-tutorial) |
