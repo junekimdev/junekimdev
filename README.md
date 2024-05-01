@@ -9,6 +9,7 @@ These are some publicly available repositories that I worked on
 |:---|:---:|
 | https://github.com/junekimdev/template-react-app | ![last-commit-react](https://img.shields.io/github/last-commit/junekimdev/template-react-app) |
 | https://github.com/junekimdev/boilerplate-react-redux-app | ![last-commit-redux](https://img.shields.io/github/last-commit/junekimdev/boilerplate-react-redux-app) |
+| https://github.com/junekimdev/stockinfo-web | ![last-commit-landing](https://img.shields.io/github/last-commit/junekimdev/stockinfo-web) |
 | https://github.com/junekimdev/landing | ![last-commit-landing](https://img.shields.io/github/last-commit/junekimdev/landing) |
 
 
