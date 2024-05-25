@@ -17,6 +17,7 @@ These are some publicly available repositories that I worked on
 | Repo | Last commit |
 |:---|:---:|
 | https://github.com/junekimdev/boilerplate-node-api | ![last-commit-node](https://img.shields.io/github/last-commit/junekimdev/boilerplate-node-api) |
+| https://github.com/junekimdev/stockinfo-backend | ![last-commit-landing](https://img.shields.io/github/last-commit/junekimdev/stockinfo-backend) |
 | https://github.com/junekimdev/gostaticserver | ![last-commit-gostaticserver](https://img.shields.io/github/last-commit/junekimdev/gostaticserver) |
 | https://github.com/junekimdev/dbi | ![last-commit-dbi](https://img.shields.io/github/last-commit/junekimdev/dbi) |
 | https://github.com/junekimdev/hash | ![last-commit-hash](https://img.shields.io/github/last-commit/junekimdev/hash) |
